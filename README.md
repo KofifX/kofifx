@@ -31,6 +31,7 @@
 <div align="center">
 <BR>
 <BR>
+<p align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6j47rqq1cuf33cqn9ox9132y2&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
